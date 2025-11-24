@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, im numb0r (zero) </h1>
+<h1 align="center">👋 hey, im numb0r (zero) </h1>
 <h3 align="center">Digital Creator & Software Developer</h3>
 
 <p align="center">
@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Aktuell arbeite ich an **Mobile Apps & PC Software**
-- 🌱 Ich lerne aktuell **Web-, App- & Software Development**
-- 💡 Fokus: Clean Code, Performance & moderne UI/UX
+- 🔭 currently working on **Mobile Apps & PC Software**
+- 🌱 currently learning **Web-, App- & Software Development**
+- 💡 focus on clean code, performance & modern UI/UX 
 
 ---
 
