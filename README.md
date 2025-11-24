@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, ich bin nichtzero</h1>
+<h1 align="center">👋 Hey, im numb0r (zero) </h1>
 <h3 align="center">Digital Creator & Software Developer</h3>
 
 <p align="center">
@@ -39,15 +39,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nichtzero&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nichtzero&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=numb0r&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=numb0r&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
 ### 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichtzero&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numb0r&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
