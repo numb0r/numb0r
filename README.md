@@ -16,7 +16,7 @@
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://instagram.com/nichtzero" target="_blank">
+  <a href="https://instagram.com/notzerodev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
          alt="Instagram" width="40" height="40"/>
   </a>
